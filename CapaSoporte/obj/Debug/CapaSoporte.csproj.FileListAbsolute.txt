@@ -1,0 +1,6 @@
+C:\Users\srubi\source\repos\CapaInterfaz\CapaSoporte\bin\Debug\CapaSoporte.dll
+C:\Users\srubi\source\repos\CapaInterfaz\CapaSoporte\bin\Debug\CapaSoporte.pdb
+C:\Users\srubi\source\repos\CapaInterfaz\CapaSoporte\obj\Debug\CapaSoporte.csproj.CoreCompileInputs.cache
+C:\Users\srubi\source\repos\CapaInterfaz\CapaSoporte\obj\Debug\CapaSoporte.dll
+C:\Users\srubi\source\repos\CapaInterfaz\CapaSoporte\obj\Debug\CapaSoporte.pdb
+C:\Users\srubi\source\repos\CapaInterfaz\CapaSoporte\obj\Debug\CapaSoporte.csprojAssemblyReference.cache
